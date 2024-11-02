@@ -22,8 +22,4 @@ A simple yet powerful calculator web application that allows users to perform ar
 ### Prerequisites
 - A web browser with JavaScript enabled.
 
-### 🛠️ Usage
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/calculator-with-history.git
